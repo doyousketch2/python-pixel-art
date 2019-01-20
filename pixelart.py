@@ -19,7 +19,7 @@ def has_flowers(how_many : int) :
 
 if __name__ == "__main__":
     if (style == 1) :
-        defaultPreset = "cherry blossom"
+        defaultPreset = "birch"
 
         if len(sys.argv) > 1:
             preset = sys.argv[1]
